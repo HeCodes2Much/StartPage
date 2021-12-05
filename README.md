@@ -16,7 +16,7 @@
 <img src='https://img.shields.io/github/commit-activity/m/The-Repo-Club/StartPage?color=red&style=flat-square'>
 </p>
 
-<p>
+<div align="center">
 <h3>
 <a href="https://github.com/The-Repo-Club/StartPage/wiki/Chrome">Chrome Installation</a> | <a href="https://github.com/The-Repo-Club/StartPage/wiki/Firefox">Firefox Installation</a> | <a href="https://github.com/The-Repo-Club/StartPage/wiki/Configuration">Configuration</a>
 </h3>
