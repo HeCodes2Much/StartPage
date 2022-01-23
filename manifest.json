@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "custom-startpage",
-	"short_name": "custom-startpage",
-	"version": "2022.01.23",
+	"name": "repoclub-startpage",
+	"short_name": "repoclub-startpage",
+	"version": "1.0.1",
 	"description": "Overrides the browsers newtab page with a custom startpage.",
 	"author": "TheRepoClub",
 
