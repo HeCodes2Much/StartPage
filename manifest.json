@@ -1,16 +1,16 @@
 {
-  "manifest_version": 2,
-  "name": "custom-startpage",
-  "short_name": "custom-startpage",
-  "version": "1.0.0",
-  "description": "Overrides the browsers newtab page with a custom startpage.",
-  "author": "TheRepoClub",
+	"manifest_version": 2,
+	"name": "custom-startpage",
+	"short_name": "custom-startpage",
+	"version": "2022.01.23",
+	"description": "Overrides the browsers newtab page with a custom startpage.",
+	"author": "TheRepoClub",
 
-  "icons": {
-    "64": "img/icon64.png"
-  },
-  "chrome_url_overrides": {
-    "newtab": "index.html"
-  },
-  "permissions": ["storage"]
+	"icons": {
+		"64": "img/icon64.png"
+	},
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"permissions": ["storage"]
 }
